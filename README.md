@@ -1,5 +1,6 @@
-# bootcamp
-Bootcamp project with nuxt
+# Bootcamp
+If you are new to coding, this will guide you through setup of a modern development environment on your computer.
+Beware there are dozens of languages and frameworks to choose from. We are suggesting *nuxt* for your first hackathon, because it is particularly easy to set up and get started. 
 
 ## prerequisites
 
@@ -7,10 +8,12 @@ Bootcamp project with nuxt
 * Node.js (platform) and npm (package manager)
 * Visual Studio Code (Code Editor)
 
-### Windows 11 and newer 10:
-`winget install -e --id Microsoft.VisualStudioCode`
-`winget install -e --id OpenJS.NodeJS`
-`winget install -e --id Git.Git`
+### Windows (11 and newer 10):
+```winget install -e --id Microsoft.VisualStudioCode```
+
+```winget install -e --id OpenJS.NodeJS```
+
+```winget install -e --id Git.Git```
 
 Older Windows: Install chocolatey and `choco install vscode git nodejs`
 
@@ -22,9 +25,12 @@ Older Windows: Install chocolatey and `choco install vscode git nodejs`
 ### Check prerequisites
 (in terminal, command line / terminal->new terminal in vscode)
 
-`node --version`
-`npm --version`
-`git --version`
+```node --version```
+
+```npm --version```
+
+```git --version```
+
 All these 3 commands should return a version number.
 
 ## get started
