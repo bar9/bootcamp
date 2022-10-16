@@ -2,7 +2,9 @@
 If you are new to coding, this will guide you through setup of a modern development environment on your computer.
 Beware there are dozens of languages and frameworks to choose from. We are suggesting *nuxt* for your first hackathon, because it is particularly easy to set up and get started. 
 
-## prerequisites
+---
+
+## Prerequisites
 
 * Git (version control system)
 * Node.js (platform) and npm (package manager)
@@ -33,8 +35,11 @@ Older Windows: Install chocolatey and `choco install vscode git nodejs`
 
 All these 3 commands should return a version number.
 
-## get started
-1. Log in to github (create an account if necessary) and fork this repository.
+---
+
+## Getting Started
+1. Log in to github (create an account if necessary)
+2. fork this repository.
 
 ### Make sure to install the dependencies:
 
@@ -51,18 +56,7 @@ Start the development server on http://localhost:3000
 npm run dev
 ```
 
-### Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
 Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+
+---
+
