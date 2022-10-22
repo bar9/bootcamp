@@ -1,4 +1,4 @@
-# Bootcamp
+# Bootcamp (Roland Copy)
 If you are new to coding, this will guide you through setup of a modern development environment on your computer.
 Beware there are dozens of languages and frameworks to choose from. We are suggesting *nuxt* for your first hackathon, because it is particularly easy to set up and get started. 
 
